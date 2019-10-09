@@ -1,0 +1,24 @@
+<html>
+<head>
+<style>
+h1{
+color:red;
+font-size:20px}
+h2{
+color:green;
+font-size:18px;}
+h3{
+color:blue;
+font-size:15px;}
+p{
+font-size:10px
+}
+</style>
+</head>
+<body>
+<h1>Hello World</h1>
+<h2>Hello World</h2>
+<h3>Hello World</h3>
+<p>I am a human!!</p>
+</body>
+</html>
